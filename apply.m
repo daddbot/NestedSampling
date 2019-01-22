@@ -24,7 +24,7 @@
 %   Posterior   is P(x,y) = L(x,y)/Z estimating lighthouse position
 %   Information is H = INTEGRAL P(x,y) log(P(x,y)/Prior(x,y)) dxdy
 %
-% Originally written in C
+% Originally written in C by John Skilling
 % Modified: 
 %           Daniel Addeo
 %           02 December 2018
